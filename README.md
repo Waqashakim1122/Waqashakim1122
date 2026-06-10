@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[Learn Quran Online](https://github.com/Waqashakim1122/Learn-Quran-Online)** — a web platform to make Quran learning accessible
+- 🔭 I'm currently working on **[Learn Quran Online](https://learnquranonline.freepage.cc/)** — a web platform to make Quran learning accessible
 - 🌱 I'm continuously improving my skills in **React** and **modern JavaScript**
-- 💼 I've built real-world projects for businesses including trading platforms and engineering firms
-- 🇵🇰 Based in **Pakistan**
+- 💼 I've built **real-world live websites** for businesses in the USA and Pakistan
+- 🇵🇰 Based in **Multan, Punjab, Pakistan**
 - 📫 Reach me at: **waqashakim443@gmail.com**
 
 ---
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -33,12 +34,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [📖 Learn Quran Online](https://github.com/Waqashakim1122/Learn-Quran-Online) | Online platform for Quran learning | JavaScript |
-| [🏪 Shah Traders](https://github.com/Waqashakim1122/SHAH-TRADERS) | Business website for a trading company | JavaScript |
-| [🌹 Rose Dew](https://github.com/Waqashakim1122/rosedew.us) | Professional website for rosedew.us | CSS |
-| [⚙️ Hamza Engineering](https://github.com/Waqashakim1122/Hamza_Engineering) | Corporate site for an engineering firm | CSS |
+| Project | Live Site | Description | Tech |
+|--------|-----------|-------------|------|
+| [📖 Learn Quran Online](https://github.com/Waqashakim1122/Learn-Quran-Online) | [🔗 Live](https://learnquranonline.freepage.cc/) | Online platform for Quran learning | React / JS |
+| [🏪 Shah Traders](https://github.com/Waqashakim1122/SHAH-TRADERS) | [🔗 Live](https://www.shahtradrs.com/) | 3PL logistics business website — Ohio, USA | JavaScript |
+| [🌹 Rose Dew](https://github.com/Waqashakim1122/rosedew.us) | [🔗 Live](https://www.rosedew.us/) | Luxury brand website | CSS / JS |
+| [⚙️ Hamza Engineering](https://github.com/Waqashakim1122/Hamza_Engineering) | [🔗 Live](https://www.hamzaeng.com/) | Corporate site for an engineering firm | CSS / JS |
 
 ---
 
@@ -58,10 +59,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://pk.linkedin.com/in/waqas-hakim-40523224b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:waqashakim443@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
